@@ -1,6 +1,7 @@
-# Bangalore-House-Price-Prediction-Model
+# Bangalore-House-Price-Prediction-Model-using-Machine-Learning
 
 **Bangalore House Price Prediction Model**
+<br>
 The Bangalore House Price Prediction Model is designed to estimate the prices of residential properties in the Bangalore region using key housing features. The model leverages Python libraries such as NumPy, Pandas, and Scikit-Learn for data preprocessing, analysis, and machine learning.
 
 Data Preprocessing:
